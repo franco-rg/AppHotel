@@ -5,7 +5,8 @@
     <string name="hint_username">Username</string>
     <string name="hint_password">Password</string>
     <string name="button_next">Ingresar</string>
-    <string name="foother">©Padama 2021</string>
+    <string name="foother1">Made by Grupo 4</string>
+    <string name="foother">©copyright 2022</string>
     <string name="button">Comenzar</string>
     <string name="button_cancel">Cancelar</string>
     <string name="error_password">Password must contain al least 6 characters.</string>
