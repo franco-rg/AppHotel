@@ -3,10 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/IDAT/5to Ciclo/Desarrollo de Aplicaciones Moviles 1/PADAMA PROYECTO/AppHotel/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/IDAT/5to Ciclo/Desarrollo de Aplicaciones Moviles 1/PADAMA PROYECTO/AppHotel/app/src/main/res/layout/fragment_login.xml" value="0.2" />
+        <entry key="..\:/IDAT/5to Ciclo/Desarrollo de Aplicaciones Moviles 1/PADAMA PROYECTO/AppHotel/app/src/main/res/layout/hotel_card.xml" value="0.2" />
+        <entry key="..\:/IDAT/5to Ciclo/Desarrollo de Aplicaciones Moviles 1/PADAMA PROYECTO/AppHotel/app/src/main/res/layout/inicio_fragment.xml" value="0.2" />
+        <entry key="..\:/IDAT/5to Ciclo/Desarrollo de Aplicaciones Moviles 1/PADAMA PROYECTO/AppHotel/app/src/main/res/layout/menu_grid_fragment.xml" value="0.2" />
+        <entry key="..\:/IDAT/5to Ciclo/Desarrollo de Aplicaciones Moviles 1/PADAMA PROYECTO/AppHotel/app/src/main/res/layout/register_fragment.xml" value="0.2" />
+        <entry key="..\:/IDAT/5to Ciclo/Desarrollo de Aplicaciones Moviles 1/PADAMA PROYECTO/AppHotel/app/src/main/res/menu/toolbar_menu.xml" value="0.2" />
         <entry key="..\:/Users/Ana/Desktop/app/app/src/main/res/drawable/custom_buttom.xml" value="0.2523076923076923" />
+        <entry key="..\:/Users/Ana/Desktop/app/app/src/main/res/drawable/custom_login.xml" value="0.21875" />
+        <entry key="..\:/Users/Ana/Desktop/app/app/src/main/res/drawable/custom_register.xml" value="0.2703125" />
         <entry key="..\:/Users/Ana/Desktop/app/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Ana/Desktop/app/app/src/main/res/layout/fragment_login.xml" value="0.24010416666666667" />
         <entry key="..\:/Users/Ana/Desktop/app/app/src/main/res/layout/inicio_fragment.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Ana/Desktop/app/app/src/main/res/layout/register_fragment.xml" value="0.264" />
       </map>
     </option>
   </component>

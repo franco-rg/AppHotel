@@ -6,41 +6,58 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Inicio"
-    android:background="@drawable/room">
+    android:background="@drawable/inicio">
 
 
     <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/louis"
+        android:text="@string/foother1"
+        android:textColor="@color/white"
+        android:textSize="15dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.471"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.952"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
         android:id="@+id/textView2"
-        android:layout_width="305dp"
-        android:layout_height="76dp"
-        android:fontFamily="@font/wigenda"
+        android:layout_width="308dp"
+        android:layout_height="89dp"
+        android:fontFamily="@font/louis"
         android:text="@string/app_description"
         android:textColor="@color/white"
         android:textSize="23dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.52" />
+        app:layout_constraintVertical_bias="0.646" />
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="128dp"
-        android:layout_height="113dp"
-        android:src="@drawable/icono"
+        android:layout_width="378dp"
+        android:layout_height="376dp"
+        android:src="@drawable/logoblanco"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.137"
+        app:layout_constraintHorizontal_bias="0.493"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.317" />
+        app:layout_constraintVertical_bias="0.132" />
 
     <Button
         android:id="@+id/next_button"
         android:layout_width="201dp"
         android:layout_height="58dp"
         android:background="@drawable/custom_buttom"
-        android:fontFamily="@font/wigenda"
+        android:fontFamily="@font/louis"
         android:text="@string/button"
         android:textSize="18dp"
         app:backgroundTint="@null"
@@ -48,31 +65,13 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.696" />
-
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="195dp"
-        android:layout_height="94dp"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginBottom="20dp"
-        android:fontFamily="@font/wigenda"
-        android:text="@string/name"
-        android:textColor="#DEB464"
-        android:textSize="45dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.842"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.33"
-        tools:ignore="MissingConstraints" />
+        app:layout_constraintVertical_bias="0.817" />
 
     <TextView
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/stanberry"
+        android:fontFamily="@font/louis"
         android:text="@string/foother"
         android:textColor="@color/white"
         android:textSize="15dp"
